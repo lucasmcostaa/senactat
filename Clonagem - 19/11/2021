@@ -1,0 +1,28 @@
+Copiei as ISO´s da rede, voltei o snapshot do windows zerado, criei um novo HD de 90 GB, habilitei em MBR e clonei o windows através do Acronis.
+
+Passo a passo do ACONIS:
+1- Acronis tools e utilites
+2- clone disk
+3- escolher o disco de origem (50 GB)
+4- escolher o novo disco (90 GB)
+5- reiniciar
+6- finalizado 
+
+Passo a passo do AOEMI:
+
+1- Clicar em clone
+2- disk clone
+3- selecionar o disco de origem (50 GB)
+4- selecionar o disco novo (90 GB)
+5- Não foi possível terminar devido a chave do produto
+
+
+Passo a passo Macrium:
+
+1- create backup´s
+2- Clicar em "clone this disk..."
+3- clicar em "select a disk to clone to..."
+4- Selecionar o HD de 90 GB
+5- Selecionar o HD de 50 GB
+6- Reiniciar
+7- finalizado
