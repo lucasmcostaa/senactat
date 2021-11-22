@@ -1,0 +1,31 @@
+-Podemos usar 254 Ip´s, não usamos o 0 e 255.
+
+Redes Publicas :
+
+- Classe A: 0-127
+
+  Classe B: 128-191
+
+  Classe C: 192-223
+
+  Classe D: 224-239 
+
+  Classe E: 240-247
+_____________________________________________________
+
+Classes privadas:
+
+Classe A: 1-10
+mascara de rede padrao- 255.0.0.0 /8
+
+Classe B: 172.16 - 172.31
+mascara de rede padrao - 255.255.0.0 /16
+
+Classe C: 192.168.0.0 - 192.168.255.255
+mascara de rede padrao- 255.255.255.0 /24
+
+_____________________________________________________
+
+DNS:               Gw:
+8.8.8.8            IP/Mask      
+ 
