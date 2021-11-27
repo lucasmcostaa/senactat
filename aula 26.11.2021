@@ -3,4 +3,6 @@
 3- baixamos o anti-virus kapersky
 4- Testamos o Kapersky tentando baixar o eicar,porém o Kapersky também bloqueia os 4 dowloads do eicar.
 5- criamos um novo usuario com nosso nome no notebook, sem direitos.
-6- fizemos login com o usuario local que criamos hoje e tentamos instalar algum programa,
+6- fizemos login com o usuario local que criamos hoje e tentamos instalar algum programa, porém o windows não permitiu porque o usuario não tem direito.
+7- logamos com o usuario senac, e colocamos o usuario que criamos hoje como administrador.
+8- logamos com o usuario novo, com as permissoes de administrador, e conseguimos instalar os programas.
